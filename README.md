@@ -6,6 +6,6 @@
 
 ## 🖥️ Tecnologiias Utilizadas:
 
-* [HTML](https://www.w3.org/html/) - Linguagem de Marcação
-* [CSS](https://www.w3.org/Style/CSS/) - Linguagem de Estilização
-* [JS](https://www.javascript.com/) - Linguagem de programação
+* [HTML](https://www.w3.org/html/) - Linguagem de Marcação.
+* [CSS](https://www.w3.org/Style/CSS/) - Linguagem de Estilização.
+* [JS](https://www.javascript.com/) - Linguagem de programação.
